@@ -1,0 +1,6 @@
+source ~/anaconda3/etc/profile.d/conda.sh
+conda activate
+pip install gym gym[atari]
+echo "launch ipconfig in pc, wifi ip: 192.168.0.130"
+echo "please run appium desktop and server is pc 192.168.0.130"
+echo "make jupyter to run python"
